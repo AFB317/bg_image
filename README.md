@@ -17,12 +17,12 @@ A lightweight mobile app that displays a book cover and allows users to read its
 <table>
   <tr>
     <td align="center">
-      <img src="bg_image/screenshots/image0.png" width="120" alt="Book Cover"/><br>
-      <b>Welcome</b>
+      <img src="screenshots/image0.png" width="120" alt="Book Cover"/><br>
+      <b>Book Now</b>
     </td>
     <td align="center">
-      <img src="bg_image/screenshots/image0.png" width="120" alt="Short Description"/><br>
-      <b>Home</b>
+      <img src="screenshots/image1.png" width="120" alt="Short Description"/><br>
+      <b>More Images</b>
     </td>
   </tr>
 </table>
